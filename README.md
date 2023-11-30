@@ -11,8 +11,8 @@ The list of resources is intentionally short and opinionated.
 
 ## Learning resources
 
-- [The Book][the-book]
-- extensive [cheat sheet][cheat-sheet]
+- [The Book][the-book], for learning methodically
+- [Rust By Example][rust-by-example], for looking things up
 
 ## Practice resources
 
@@ -29,7 +29,7 @@ The list of resources is intentionally short and opinionated.
 [rust-workshop-extra]: https://github.com/senekor/rust-workshop-extra
 [feedback-form]: https://docs.google.com/forms/d/e/1FAIpQLSdrzP1LVkLSY8jVe-5P6wFPAE2W3GZFitkZ0j5Btn4uoqPuLg/viewform?usp=sf_link
 [the-book]: https://doc.rust-lang.org/book/
-[cheat-sheet]: https://cheats.rs/
+[rust-by-example]: https://doc.rust-lang.org/rust-by-example/
 [rustlings]: https://rustlings.cool/
 [exercism]: https://exercism.org/
 [advent-of-code]: https://adventofcode.com/
