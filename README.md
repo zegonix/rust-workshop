@@ -1,9 +1,9 @@
 # rust-workshop
 
 Code examples and (non-nullable) pointers to learning resources.
-See [rust-workshop-extra] for the workshop slides.
+The slides for the workshop are intentionally not included here, because they are not intended as reference material.
 
-Please suggest improvements of this workshop _continuously_ and _generously_ !
+Please suggest improvements for this workshop _continuously_ and _generously_ !
 Here's the [anonymous form][feedback-form].
 Thank you! ❤️
 
@@ -23,7 +23,9 @@ The list of resources is intentionally short and opinionated.
 ## Ecosystem Wegweiser
 
 - community-driven shortlist of high-quality libraries: [blessed.rs][blessed-rs]
-- documentation: [docs.rs][docs-rs]
+- library documentation: [docs.rs][docs-rs]
+  - handy shortcut: `docs.rs/<library-name>`
+  - example standard library: [docs.rs/std][docs-std]
 - community-driven newsletter: [This Week in Rust][this-week-in-rust]
 
 [rust-workshop-extra]: https://github.com/senekor/rust-workshop-extra
@@ -31,8 +33,9 @@ The list of resources is intentionally short and opinionated.
 [the-book]: https://doc.rust-lang.org/book/
 [rust-by-example]: https://doc.rust-lang.org/rust-by-example/
 [rustlings]: https://rustlings.cool/
-[exercism]: https://exercism.org/
+[exercism]: https://exercism.org/tracks/rust
 [advent-of-code]: https://adventofcode.com/
 [blessed-rs]: https://blessed.rs/crates
 [docs-rs]: https://docs.rs/
+[docs-std]: https://docs.rs/std
 [this-week-in-rust]: https://this-week-in-rust.org/
