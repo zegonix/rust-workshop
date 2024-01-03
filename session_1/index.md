@@ -10,8 +10,9 @@ Here's a checklist for this week's tasks:
       If you're using Visual Studio Code, simply install the recommended extensions.
   - LSP ([rust-analyzer])
   - debugging support
-- [ ] Configure Rust's official linter, clippy. (optional but highly recommended)
+- [ ] Configure Rust's official linter, clippy.
   - [Instructions for Visual Studio Code][vscode-clippy]
+  - [ ] Fix all linter warnings in `hello-clippy`.
 - [ ] Setup [rustlings].
 - Solve rustlings exercises:
   - [ ] variables
