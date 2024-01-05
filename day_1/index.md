@@ -1,4 +1,4 @@
-# Session 1
+# Day 1
 
 Here's a checklist for this week's tasks:
 
