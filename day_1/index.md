@@ -18,6 +18,7 @@ Here's a checklist for this week's tasks:
   - [ ] variables
   - [ ] if
   - [ ] functions
+  - [ ] quiz 1
   - [ ] primitive types
   - [ ] vectors
   - [ ] move semantics (== ownership)
@@ -50,14 +51,17 @@ If you have time and enthusiasm to spare, you can solve some of these exercises.
 You are encouraged to ping your workshop organizer for a code review!
 Feedback will focus on adding information, pointing out different ways of doing things and discussing trade-offs. (no nitpicking / perfectionism)
 Exercism has a built-in mentoring feature and GitHub PR reviews work well for both platforms.
+Choose whatever you prefer.
 
 These exercises were selected because you already learned about everything required to solve them.
 However, a performant and or elegant solution might still be out of reach!
 So, keep your perfectionism in check for now.
 You can always revisit these exercises later to refactor them.
 
-This is not a checklist!
+This is not a checklist, but rather an "allow-list"!
 Just start with one that appeals to you and do as many as you like.
+Exercism focuses on exercises that are designed to push you to use specific language features.
+Advent of Code on the other hand is more free-form problem solving.
 
 Make sure you finished the standard library reading, some of those items might come in handy 😉
 
