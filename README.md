@@ -31,12 +31,14 @@ The list of resources is intentionally short and opinionated.
 
 The slides for the workshop are NOT intended as reference material, but you can find them here anyway:
 
-[`s1`][s1],
-[`s2`][s2],
-[`s3`][s3],
-[`s4`][s4],
-[`s5`][s5],
-[`s6`][s6]
+- [day 1][rw1]
+- [day 2][rw2]
+- [day 3][rw3]
+- [day 4][rw4]
+- [day 5][rw5]
+- [day 6][rw6]
+
+<!-- references -->
 
 [rust-workshop-extra]: https://github.com/senekor/rust-workshop-extra
 [feedback-form]: https://docs.google.com/forms/d/e/1FAIpQLSdrzP1LVkLSY8jVe-5P6wFPAE2W3GZFitkZ0j5Btn4uoqPuLg/viewform?usp=sf_link
@@ -50,9 +52,9 @@ The slides for the workshop are NOT intended as reference material, but you can 
 [docs-std]: https://docs.rs/std
 [this-week-in-rust]: https://this-week-in-rust.org/
 
-[s1]: https://rw1.buenzli.dev
-[s2]: https://rw2.buenzli.dev
-[s3]: https://rw3.buenzli.dev
-[s4]: https://rw4.buenzli.dev
-[s5]: https://rw5.buenzli.dev
-[s6]: https://rw6.buenzli.dev
+[rw1]: https://rw1.buenzli.dev
+[rw2]: https://rw2.buenzli.dev
+[rw3]: https://rw3.buenzli.dev
+[rw4]: https://rw4.buenzli.dev
+[rw5]: https://rw5.buenzli.dev
+[rw6]: https://rw6.buenzli.dev
