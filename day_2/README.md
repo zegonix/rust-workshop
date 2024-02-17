@@ -26,7 +26,7 @@ Here's a checklist for this week's tasks:
   - [`HashSet`](https://doc.rust-lang.org/rust-by-example/std/hash/hashset.html)
 - [ ] standard library
   - skim list of methods on `Option`
-- [ ] Solve the exercise [Anagram](https://exercism.org/tracks/rust/exercises/anagram/iterations) on Exercism.
+- [ ] Solve the exercise [Anagram](https://exercism.org/tracks/rust/exercises/anagram) on Exercism.
 - [ ] Solve Advent of Code [2016: day 1](https://adventofcode.com/2016/day/1).
 
 ## Optional exercises
