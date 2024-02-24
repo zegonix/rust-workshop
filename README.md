@@ -24,7 +24,7 @@ The list of resources is intentionally short and opinionated.
 - community-driven shortlist of high-quality libraries: [blessed.rs][blessed-rs]
 - library documentation: [docs.rs][docs-rs]
   - handy shortcut: `docs.rs/<library-name>`
-  - example standard library: [docs.rs/std][docs-std]
+  - example for the `winnow` crate: [docs.rs/winnow][docs-winnow]
 - community-driven newsletter: [This Week in Rust][this-week-in-rust]
 
 ## Slides
@@ -49,7 +49,7 @@ The slides for the workshop are NOT intended as reference material, but you can 
 [advent-of-code]: https://adventofcode.com/
 [blessed-rs]: https://blessed.rs/crates
 [docs-rs]: https://docs.rs/
-[docs-std]: https://docs.rs/std
+[docs-winnow]: https://docs.rs/winnow
 [this-week-in-rust]: https://this-week-in-rust.org/
 
 [rw1]: https://rw1.buenzli.dev
