@@ -1,6 +1,6 @@
 # Rust Workshop
 
-Code examples and (non-nullable) pointers to learning resources.
+Code examples and references to learning resources.
 
 Please suggest improvements for this workshop _continuously_ and _generously_ !
 Here's the [anonymous form][feedback-form].
