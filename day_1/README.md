@@ -8,6 +8,7 @@ Here's a checklist for this week's tasks:
 - [ ] [Install the Rust toolchain][install-rust].
 - [ ] Setup your editor for Rust development.
       If you're using Visual Studio Code, simply install the recommended extensions.
+      For other editors, make sure the following is working:
   - LSP ([rust-analyzer])
   - debugging support
 - [ ] Configure your LSP to use Rust's official linter, clippy.
@@ -17,7 +18,10 @@ Here's a checklist for this week's tasks:
       This will download a `rustlings` folder wherever you run the setup command.
       To keep things organized, you can run the setup here inside your fork.
       The `rustlings` directory will be ignored by git, but you'll have everything in one place.
-- Solve rustlings exercises:
+      Note that LSP actually _doesn't_ work for rustlings exercises.
+      This is fine, the small exercises are meant for you to grapple with the syntax yourself.
+- Solve rustlings exercises (run `rustlings watch` inside `rustlings/`).
+  - [ ] intro
   - [ ] variables
   - [ ] if
   - [ ] functions
