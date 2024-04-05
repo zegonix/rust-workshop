@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: My first CI step
-        run: "Hello CI! Let's hope I get a green checkmark."
+        run: echo "Hello CI! Let's hope I get a green checkmark."
 ```
 
 A brief explanation skipping many details:
