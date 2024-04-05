@@ -18,7 +18,7 @@ Here's a checklist for this week's tasks:
 
 - [ ] Check out in "Rust By Example":
   - [Operator Overloading](https://doc.rust-lang.org/stable/rust-by-example/trait/ops.html) via traits
-- [ ] Understand the function of the following iterator adaptors.
+- [ ] Understand the function of the following iterator adapters.
       This is a long list, the idea is not read all the documentation from top to bottom!
       Once you understand the basic purpose of an adapter, move on to the next.
   - [`count`](https://doc.rust-lang.org/stable/std/iter/trait.Iterator.html#method.count)
