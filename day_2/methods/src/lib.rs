@@ -7,23 +7,25 @@ struct Bee {
     nectar: u32,
 }
 
-fn new() -> Bee {
-    Bee { nectar: 0 }
-}
+impl Bee {
+    fn new() -> Bee {
+        Bee { nectar: 0 }
+    }
 
-fn collect_nectar(bee: &mut Bee) {
-    bee.nectar += 1
-}
+    fn collect_nectar(bee: &mut Bee) {
+        bee.nectar += 1
+    }
 
-/// check how much nectar the bee is carrying
-fn get_nectar(bee: &Bee) -> u32 {
-    bee.nectar
-}
+    /// check how much nectar the bee is carrying
+    fn get_nectar(bee: &Bee) -> u32 {
+        bee.nectar
+    }
 
-/// The bee won't exist anymore after this function call 😢
-/// Returns all the nectar the bee was carrying at the time of death.
-fn die_for_the_glory_of_the_queen(bee: Bee) -> u32 {
-    bee.nectar
+    /// The bee won't exist anymore after this function call 😢
+    /// Returns all the nectar the bee was carrying at the time of death.
+    fn die_for_the_glory_of_the_queen(bee: Bee) -> u32 {
+        bee.nectar
+    }
 }
 
 mod tests {
