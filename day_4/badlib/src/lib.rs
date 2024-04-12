@@ -20,7 +20,7 @@ pub fn dangerous_cast(n: i64) -> i32 {
     // In my opinion, the `as` keyword should be used sparingly.
     // This conversion is lossy and may not do what you expect.
     // It is better to replace it with `.try_into()` and return
-    // a `Reslut<i64, _>` instead.
+    // a `Result<i64, _>` instead.
     //
     // But as always, let's get CI to complain about it before we fix it.
     n as i32
