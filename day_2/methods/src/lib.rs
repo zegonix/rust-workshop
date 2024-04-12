@@ -8,22 +8,22 @@ struct Bee {
 }
 
 impl Bee {
-    fn new() -> Bee {
-        Bee { nectar: 0 }
+    fn new() -> Self {
+        Self { nectar: 0 }
     }
 
-    fn collect_nectar(bee: &mut Bee) {
+    fn collect_nectar(bee: &mut Self) {
         bee.nectar += 1
     }
 
     /// check how much nectar the bee is carrying
-    fn get_nectar(bee: &Bee) -> u32 {
+    fn get_nectar(bee: &Self) -> u32 {
         bee.nectar
     }
 
     /// The bee won't exist anymore after this function call 😢
     /// Returns all the nectar the bee was carrying at the time of death.
-    fn die_for_the_glory_of_the_queen(bee: Bee) -> u32 {
+    fn die_for_the_glory_of_the_queen(bee: Self) -> u32 {
         bee.nectar
     }
 }
