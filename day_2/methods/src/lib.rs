@@ -7,7 +7,7 @@ struct Bee {
     nectar: u32,
 }
 
-fn new_bee() -> Bee {
+fn new() -> Bee {
     Bee { nectar: 0 }
 }
 
