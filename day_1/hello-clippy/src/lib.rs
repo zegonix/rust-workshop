@@ -25,7 +25,7 @@ pub fn decrement(x: i32) -> i32 {
 }
 
 pub fn read_int_from_str(s: &str) -> i32 {
-    s.parse::<i32>()
+    s.parse::<i32>().expect("why should it fail?")
 }
 
 pub fn get_one_quintillion() -> u64 {
