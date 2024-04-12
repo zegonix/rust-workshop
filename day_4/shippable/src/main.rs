@@ -1,3 +1,3 @@
 fn main() {
-    println!("RUN YOU FOOL!");
+    println!("YOU SHALL NOT PSPSPS!");
 }
