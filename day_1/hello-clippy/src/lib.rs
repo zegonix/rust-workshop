@@ -13,7 +13,7 @@ pub fn get_first_two_elems(v: &[i32]) -> (i32, i32) {
 }
 
 pub fn make_unsigned(x: i32) -> u32 {
-    x.unsigned_abs() as u32
+    x.unsigned_abs()
 }
 
 pub fn floats_are_similar(a: f32, b: f32) -> bool {
